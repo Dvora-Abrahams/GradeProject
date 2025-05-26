@@ -1,0 +1,1092 @@
+2025-01-12 12:28:43.946 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:28:43.993 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:28:43.998 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:28:44.000 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:28:44.001 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:28:45.143 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:28:45.143 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:28:45.185 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 54.9339ms
+2025-01-12 12:28:45.238 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 108.3457ms
+2025-01-12 12:28:45.299 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:28:45.354 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 54.8259ms
+2025-01-12 12:28:45.358 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:28:47.280 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 12:28:47.424 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 143.6826ms
+2025-01-12 12:28:47.439 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:28:47.439 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 12:28:47.440 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:28:47.447 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 10.1187ms
+2025-01-12 12:28:47.455 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 15.5299ms
+2025-01-12 12:28:47.480 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.4521ms
+2025-01-12 12:28:47.550 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 12:28:47.739 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 189.4569ms
+2025-01-12 12:28:53.641 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/GradesManagement/3 - null null
+2025-01-12 12:28:53.648 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.GradesManagementController.Return_Grades (GradingSystem)'
+2025-01-12 12:28:53.673 +02:00 [INF] Route matched with {action = "Return_Grades", controller = "GradesManagement"}. Executing controller action with signature System.Collections.Generic.List`1[System.Int32] Return_Grades(Int32) on controller GradingSystem.Controllers.GradesManagementController (GradingSystem).
+2025-01-12 12:28:53.702 +02:00 [INF] *********************************************************************
+2025-01-12 12:28:53.704 +02:00 [INF] return all grade for exe3 to the teacher
+2025-01-12 12:28:53.705 +02:00 [INF] *********************************************************************
+2025-01-12 12:28:53.714 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-12 12:28:53.749 +02:00 [INF] Executed action GradingSystem.Controllers.GradesManagementController.Return_Grades (GradingSystem) in 69.5554ms
+2025-01-12 12:28:53.751 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.GradesManagementController.Return_Grades (GradingSystem)'
+2025-01-12 12:28:53.753 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/GradesManagement/3 - 200 null application/json; charset=utf-8 111.7421ms
+2025-01-12 12:30:39.778 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:30:39.822 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:30:39.827 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:30:39.829 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:30:39.830 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:30:41.003 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:30:41.003 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:30:41.039 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 45.7862ms
+2025-01-12 12:30:41.115 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 123.0015ms
+2025-01-12 12:30:41.174 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:30:41.233 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 58.861ms
+2025-01-12 12:30:41.237 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:30:42.010 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 12:30:42.147 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 137.615ms
+2025-01-12 12:30:42.163 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 12:30:42.163 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:30:42.170 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:30:42.173 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 10.1932ms
+2025-01-12 12:30:42.175 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 13.1324ms
+2025-01-12 12:30:42.203 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.7727ms
+2025-01-12 12:30:42.263 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 12:30:42.445 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 182.0195ms
+2025-01-12 12:30:54.939 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/ViewGrades/FinalGrade?studentId=11111111 - null null
+2025-01-12 12:30:54.946 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ViewGradesController.Final_Grade (GradingSystem)'
+2025-01-12 12:30:54.971 +02:00 [INF] Route matched with {action = "Final_Grade", controller = "ViewGrades"}. Executing controller action with signature Single Final_Grade(System.String) on controller GradingSystem.Controllers.ViewGradesController (GradingSystem).
+2025-01-12 12:30:55.010 +02:00 [INF] *********************************************************************
+2025-01-12 12:30:55.012 +02:00 [INF] the student with the id:11111111 connect and get the final grade
+2025-01-12 12:30:55.013 +02:00 [INF] *********************************************************************
+2025-01-12 12:30:58.855 +02:00 [INF] Executed action GradingSystem.Controllers.ViewGradesController.Final_Grade (GradingSystem) in 3876.3447ms
+2025-01-12 12:30:58.858 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ViewGradesController.Final_Grade (GradingSystem)'
+2025-01-12 12:30:58.863 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 11111111 not exsist
+   at GradingSystem.Services.GradeManagement.FinalGrade(String Id) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Services\GradeManagement.cs:line 49
+   at GradingSystem.Controllers.ViewGradesController.Final_Grade(String studentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Controllers\ViewGradesController.cs:line 91
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-01-12 12:30:58.934 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:30:58.936 +02:00 [INF] Route matched with {action = "HandleError", controller = "Exception"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleError() on controller GradingSystem.Controllers.ExceptionController (GradingSystem).
+2025-01-12 12:30:58.940 +02:00 [INF] *********************************************************************
+2025-01-12 12:30:58.942 +02:00 [ERR] The student with Id 11111111 not exsist
+2025-01-12 12:30:58.944 +02:00 [INF] *********************************************************************
+2025-01-12 12:30:58.945 +02:00 [WRN] Student not exsist
+2025-01-12 12:30:58.952 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-01-12 12:30:59.016 +02:00 [INF] Executed action GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem) in 76.9221ms
+2025-01-12 12:30:59.018 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:30:59.020 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/ViewGrades/FinalGrade?studentId=11111111 - 444 null application/problem+json; charset=utf-8 4080.6681ms
+2025-01-12 12:38:23.412 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:38:23.456 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:38:23.461 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:38:23.463 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:38:23.464 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:38:24.310 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:38:24.310 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:38:24.342 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 41.58ms
+2025-01-12 12:38:24.384 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 84.8453ms
+2025-01-12 12:38:24.435 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:38:24.488 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 52.6539ms
+2025-01-12 12:38:24.492 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:38:25.326 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 12:38:25.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 136.6806ms
+2025-01-12 12:38:25.475 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 12:38:25.475 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:38:25.487 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 12.0533ms
+2025-01-12 12:38:25.490 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:38:25.490 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 14.8145ms
+2025-01-12 12:38:25.518 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.7656ms
+2025-01-12 12:38:25.586 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 12:38:25.797 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 211.4163ms
+2025-01-12 12:38:36.930 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/ViewGrades/ViewTest?studentId=1344332&passWord=13213 - null null
+2025-01-12 12:38:36.937 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ViewGradesController.View_Test (GradingSystem)'
+2025-01-12 12:38:36.959 +02:00 [INF] Route matched with {action = "View_Test", controller = "ViewGrades"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Single] View_Test(System.String, System.String) on controller GradingSystem.Controllers.ViewGradesController (GradingSystem).
+2025-01-12 12:38:38.807 +02:00 [INF] Executed action GradingSystem.Controllers.ViewGradesController.View_Test (GradingSystem) in 1840.7244ms
+2025-01-12 12:38:38.810 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ViewGradesController.View_Test (GradingSystem)'
+2025-01-12 12:38:38.814 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 1344332 not exsist
+   at GradingSystem.Services.PasswordManager.ValideNameAndPassword(String id, String password) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Services\PasswordManager.cs:line 38
+   at GradingSystem.Controllers.ViewGradesController.View_Test(String studentId, String passWord) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Controllers\ViewGradesController.cs:line 70
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-01-12 12:38:38.847 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:38:38.849 +02:00 [INF] Route matched with {action = "HandleError", controller = "Exception"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleError() on controller GradingSystem.Controllers.ExceptionController (GradingSystem).
+2025-01-12 12:38:38.854 +02:00 [INF] *********************************************************************
+2025-01-12 12:38:38.856 +02:00 [ERR] The student with Id 1344332 not exsist
+2025-01-12 12:38:38.857 +02:00 [INF] *********************************************************************
+2025-01-12 12:38:38.859 +02:00 [WRN] Student not exsist
+2025-01-12 12:38:38.866 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-01-12 12:38:38.920 +02:00 [INF] Executed action GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem) in 67.0394ms
+2025-01-12 12:38:38.922 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:38:38.923 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/ViewGrades/ViewTest?studentId=1344332&passWord=13213 - 444 null application/problem+json; charset=utf-8 1993.2928ms
+2025-01-12 12:42:09.372 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:42:09.420 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:42:09.424 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:42:09.426 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:42:09.427 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:42:10.462 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:42:10.462 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:42:10.496 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 46.1463ms
+2025-01-12 12:42:10.540 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.4828ms
+2025-01-12 12:42:10.578 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:42:10.640 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 61.5792ms
+2025-01-12 12:42:10.644 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:42:13.623 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:42:13.623 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:42:13.628 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.4985ms
+2025-01-12 12:42:13.658 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.4754ms
+2025-01-12 12:42:14.547 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditGrade.html - null null
+2025-01-12 12:42:14.636 +02:00 [INF] Sending file. Request path: '/EditGrade.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditGrade.html'
+2025-01-12 12:42:14.638 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditGrade.html - 200 null text/html 91.3732ms
+2025-01-12 12:42:14.648 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:42:14.648 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:42:14.654 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 6.4385ms
+2025-01-12 12:42:14.680 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.8582ms
+2025-01-12 12:42:21.872 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - application/x-www-form-urlencoded 31
+2025-01-12 12:42:21.888 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 12:42:21.911 +02:00 [INF] Route matched with {action = "Edit_Grade", controller = "GradesManagement"}. Executing controller action with signature System.String Edit_Grade(System.String, Int32, Int32) on controller GradingSystem.Controllers.GradesManagementController (GradingSystem).
+2025-01-12 12:42:21.953 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-12 12:42:22.026 +02:00 [INF] Executed action GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem) in 106.6611ms
+2025-01-12 12:42:22.029 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 12:42:22.032 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - 400 null application/problem+json; charset=utf-8 159.8734ms
+2025-01-12 12:43:15.002 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:43:15.047 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:43:15.051 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:43:15.053 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:43:15.055 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:43:15.679 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:43:15.679 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:43:15.710 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 37.5078ms
+2025-01-12 12:43:15.749 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 78.5081ms
+2025-01-12 12:43:15.804 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:43:15.864 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 59.9734ms
+2025-01-12 12:43:15.869 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:43:17.372 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:43:17.373 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:43:17.377 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.0358ms
+2025-01-12 12:43:17.409 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9938ms
+2025-01-12 12:43:18.172 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditGrade.html - null null
+2025-01-12 12:43:18.241 +02:00 [INF] The file /EditGrade.html was not modified
+2025-01-12 12:43:18.245 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditGrade.html - 304 null text/html 73.4655ms
+2025-01-12 12:43:18.253 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:43:18.253 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:43:18.259 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.8955ms
+2025-01-12 12:43:18.289 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.6896ms
+2025-01-12 12:43:23.329 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - application/x-www-form-urlencoded 31
+2025-01-12 12:43:23.343 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 12:43:23.368 +02:00 [INF] Route matched with {action = "Edit_Grade", controller = "GradesManagement"}. Executing controller action with signature System.String Edit_Grade(System.String, Int32, Int32) on controller GradingSystem.Controllers.GradesManagementController (GradingSystem).
+2025-01-12 12:43:23.408 +02:00 [INF] *********************************************************************
+2025-01-12 12:43:23.410 +02:00 [INF] the teacher edit grade of exe2 change to 12 for student 111
+2025-01-12 12:43:23.411 +02:00 [INF] *********************************************************************
+2025-01-12 12:43:23.421 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 12:43:23.429 +02:00 [INF] Executed action GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem) in 54.9756ms
+2025-01-12 12:43:23.433 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 12:43:23.435 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - 200 null text/plain; charset=utf-8 106.3901ms
+2025-01-12 12:45:05.909 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:45:05.956 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:45:05.961 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:45:05.962 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:45:05.964 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:45:06.575 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:06.575 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:45:06.607 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 42.524ms
+2025-01-12 12:45:06.650 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 86.4329ms
+2025-01-12 12:45:06.687 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:45:06.743 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 55.6218ms
+2025-01-12 12:45:06.749 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:45:08.159 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:08.159 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:45:08.163 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.4067ms
+2025-01-12 12:45:08.192 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.8169ms
+2025-01-12 12:45:10.474 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 12:45:10.559 +02:00 [INF] Sending file. Request path: '/EditName.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditName.html'
+2025-01-12 12:45:10.562 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 200 null text/html 87.8906ms
+2025-01-12 12:45:10.571 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:45:10.571 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:10.580 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.5611ms
+2025-01-12 12:45:10.608 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.5048ms
+2025-01-12 12:45:15.061 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - application/x-www-form-urlencoded 38
+2025-01-12 12:45:15.076 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 12:45:15.101 +02:00 [INF] Route matched with {action = "Edit_Name", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Name(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:45:15.135 +02:00 [INF] *********************************************************************
+2025-01-12 12:45:15.138 +02:00 [INF] the teacher connect and edit the name to the student with the id: 111 
+2025-01-12 12:45:15.139 +02:00 [INF] *********************************************************************
+2025-01-12 12:45:15.144 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 12:45:15.151 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem) in 43.7994ms
+2025-01-12 12:45:15.153 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 12:45:15.155 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - 200 null text/plain; charset=utf-8 94.3694ms
+2025-01-12 12:45:17.090 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:17.094 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3145ms
+2025-01-12 12:45:18.108 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:18.112 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.237ms
+2025-01-12 12:45:19.176 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:19.176 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:45:19.180 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3221ms
+2025-01-12 12:45:19.212 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.7269ms
+2025-01-12 12:45:23.975 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:45:23.985 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:45:23.989 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:45:29.946 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem) in 5953.8307ms
+2025-01-12 12:45:29.949 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:45:29.955 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id EditPassword not exsist
+   at GradeDO.Students.FindStudent(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\Students.cs:line 127
+   at GradeDO.Students.ViewStudent(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\Students.cs:line 53
+   at GradingSystem.Controllers.StudentManagementController.Get_Student(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Controllers\StudentManagementController.cs:line 84
+   at lambda_method6(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-01-12 12:45:30.000 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:45:30.003 +02:00 [INF] Route matched with {action = "HandleError", controller = "Exception"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleError() on controller GradingSystem.Controllers.ExceptionController (GradingSystem).
+2025-01-12 12:45:30.006 +02:00 [INF] *********************************************************************
+2025-01-12 12:45:30.007 +02:00 [ERR] The student with Id EditPassword not exsist
+2025-01-12 12:45:30.008 +02:00 [INF] *********************************************************************
+2025-01-12 12:45:30.010 +02:00 [WRN] Student not exsist
+2025-01-12 12:45:30.011 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-01-12 12:45:30.079 +02:00 [INF] Executed action GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem) in 74.3608ms
+2025-01-12 12:45:30.082 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 12:45:30.084 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - 444 null application/problem+json; charset=utf-8 6109.2617ms
+2025-01-12 12:45:35.948 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:45:35.955 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.9652ms
+2025-01-12 12:45:49.375 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:45:49.386 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:45:49.388 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:48:34.956 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:48:35.002 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:48:35.007 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:48:35.008 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:48:35.010 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:48:36.058 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:48:36.058 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:48:36.089 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 38.4155ms
+2025-01-12 12:48:36.131 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.0533ms
+2025-01-12 12:48:36.183 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:48:36.257 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 74.8374ms
+2025-01-12 12:48:36.263 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:48:37.374 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:48:37.374 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:48:37.384 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.9594ms
+2025-01-12 12:48:37.407 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.2574ms
+2025-01-12 12:48:39.078 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:48:39.079 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:48:39.083 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.2731ms
+2025-01-12 12:48:39.117 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.4834ms
+2025-01-12 12:48:44.878 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:48:44.952 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:48:44.978 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:50:52.477 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:50:52.523 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:50:52.527 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:50:52.529 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:50:52.531 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:50:53.123 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:50:53.123 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:50:53.154 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 38.1307ms
+2025-01-12 12:50:53.191 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 76.5628ms
+2025-01-12 12:50:53.246 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:50:53.298 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 51.8213ms
+2025-01-12 12:50:53.302 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:50:54.089 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 12:50:54.224 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 134.9139ms
+2025-01-12 12:50:54.240 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 12:50:54.240 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:50:54.246 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:50:54.249 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.3142ms
+2025-01-12 12:50:54.251 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 11.7628ms
+2025-01-12 12:50:54.279 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.7603ms
+2025-01-12 12:50:54.346 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 12:50:54.520 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 174.9152ms
+2025-01-12 12:51:15.408 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - multipart/form-data; boundary=----WebKitFormBoundaryjA8olu8yesw2qpH4 346
+2025-01-12 12:51:15.414 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 12:51:15.438 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:51:22.337 +02:00 [INF] *********************************************************************
+2025-01-12 12:51:22.339 +02:00 [INF] the teacher connect and edit the password to the student with the id: 111 
+2025-01-12 12:51:22.341 +02:00 [INF] *********************************************************************
+2025-01-12 12:51:22.349 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 12:51:22.355 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 6910.5ms
+2025-01-12 12:51:22.357 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 12:51:22.359 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - 200 null text/plain; charset=utf-8 6951.7493ms
+2025-01-12 12:52:04.819 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:52:04.825 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.8849ms
+2025-01-12 12:52:08.781 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:52:08.781 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:52:08.786 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.5283ms
+2025-01-12 12:52:08.822 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.1966ms
+2025-01-12 12:52:10.611 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:52:10.611 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:52:10.620 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.1405ms
+2025-01-12 12:52:10.648 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.1076ms
+2025-01-12 12:54:54.615 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:54:54.660 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:54:54.665 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:54:54.667 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:54:54.669 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:54:55.442 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:54:55.442 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:54:55.478 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 44.6495ms
+2025-01-12 12:54:55.523 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 90.7332ms
+2025-01-12 12:54:55.575 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:54:55.629 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 53.7954ms
+2025-01-12 12:54:55.633 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:54:56.507 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:54:56.507 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:54:56.511 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.9493ms
+2025-01-12 12:54:56.540 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.1652ms
+2025-01-12 12:54:57.306 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:54:57.306 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:54:57.309 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.9923ms
+2025-01-12 12:54:57.340 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.6938ms
+2025-01-12 12:55:07.996 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:55:08.064 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:55:08.088 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:55:28.363 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:55:28.406 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:55:28.410 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:55:28.412 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:55:28.413 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:55:37.673 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:55:37.673 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:55:37.703 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 39.1576ms
+2025-01-12 12:55:37.744 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 81.3744ms
+2025-01-12 12:55:37.798 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:55:37.845 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 47.1453ms
+2025-01-12 12:55:37.849 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:55:51.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:55:51.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:55:51.608 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.9805ms
+2025-01-12 12:55:51.641 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.8065ms
+2025-01-12 12:55:52.258 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:55:52.258 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:55:52.267 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.2935ms
+2025-01-12 12:55:52.296 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.2039ms
+2025-01-12 12:55:58.004 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:55:58.071 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:55:58.095 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:56:40.697 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:56:40.758 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:56:40.763 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:56:40.765 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:56:40.767 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:56:45.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:56:45.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:56:45.235 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 57.3705ms
+2025-01-12 12:56:45.324 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 148.0875ms
+2025-01-12 12:56:45.400 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:56:45.466 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 66.5112ms
+2025-01-12 12:56:45.472 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:56:59.558 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:56:59.607 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:56:59.612 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:56:59.614 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:56:59.615 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:57:00.458 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:57:00.458 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:57:00.489 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 38.0265ms
+2025-01-12 12:57:00.545 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.4037ms
+2025-01-12 12:57:00.587 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:57:00.641 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 54.5434ms
+2025-01-12 12:57:00.646 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:57:02.189 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:57:02.189 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:57:02.193 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.7703ms
+2025-01-12 12:57:02.229 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.2736ms
+2025-01-12 12:57:03.449 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:57:03.449 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:57:03.453 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.5819ms
+2025-01-12 12:57:03.493 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 43.7996ms
+2025-01-12 12:57:08.608 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:57:08.679 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:57:08.701 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:58:11.704 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 12:58:11.748 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 12:58:11.753 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 12:58:11.755 +02:00 [INF] Hosting environment: Development
+2025-01-12 12:58:11.757 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 12:58:12.757 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:58:12.757 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:58:12.788 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 39.0638ms
+2025-01-12 12:58:12.837 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 88.6872ms
+2025-01-12 12:58:12.892 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 12:58:12.942 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 50.4999ms
+2025-01-12 12:58:12.947 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 12:58:36.284 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:58:36.288 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:58:36.295 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 11.8643ms
+2025-01-12 12:58:36.329 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 44.3752ms
+2025-01-12 12:58:37.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 12:58:37.438 +02:00 [INF] The file /EditName.html was not modified
+2025-01-12 12:58:37.441 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 304 null text/html 74.8721ms
+2025-01-12 12:58:37.449 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:58:37.450 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:58:37.460 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 11.1526ms
+2025-01-12 12:58:37.490 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.833ms
+2025-01-12 12:58:42.417 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - application/x-www-form-urlencoded 37
+2025-01-12 12:58:42.432 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 12:58:42.457 +02:00 [INF] Route matched with {action = "Edit_Name", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Name(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 12:58:55.063 +02:00 [INF] *********************************************************************
+2025-01-12 12:58:55.306 +02:00 [INF] the teacher connect and edit the name to the student with the id: 111 
+2025-01-12 12:58:55.561 +02:00 [INF] *********************************************************************
+2025-01-12 12:58:58.667 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 12:58:58.677 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem) in 16214.4178ms
+2025-01-12 12:58:58.680 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 12:58:58.681 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - 200 null text/plain; charset=utf-8 16264.1928ms
+2025-01-12 12:59:00.973 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:59:00.977 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.4939ms
+2025-01-12 12:59:01.550 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:59:01.555 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.9304ms
+2025-01-12 12:59:03.508 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 12:59:03.508 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 12:59:03.516 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.8333ms
+2025-01-12 12:59:03.543 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.7027ms
+2025-01-12 12:59:27.173 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 12:59:27.189 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 12:59:27.193 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:00:11.768 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:00:11.816 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:00:11.820 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:00:11.822 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:00:11.824 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:00:12.472 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:12.472 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:00:12.508 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 46.9509ms
+2025-01-12 13:00:12.555 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 96.0323ms
+2025-01-12 13:00:12.605 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:00:12.663 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 58.2499ms
+2025-01-12 13:00:12.668 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:00:13.182 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:00:13.182 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:13.188 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.6962ms
+2025-01-12 13:00:13.213 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.3769ms
+2025-01-12 13:00:14.911 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 13:00:14.982 +02:00 [INF] The file /EditName.html was not modified
+2025-01-12 13:00:14.985 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 304 null text/html 73.4701ms
+2025-01-12 13:00:14.993 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:14.993 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:00:14.997 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.2642ms
+2025-01-12 13:00:15.036 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.3688ms
+2025-01-12 13:00:19.442 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - application/x-www-form-urlencoded 38
+2025-01-12 13:00:19.456 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:00:19.479 +02:00 [INF] Route matched with {action = "Edit_Name", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Name(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:00:22.543 +02:00 [INF] *********************************************************************
+2025-01-12 13:00:22.545 +02:00 [INF] the teacher connect and edit the name to the student with the id: 111 
+2025-01-12 13:00:22.547 +02:00 [INF] *********************************************************************
+2025-01-12 13:00:22.557 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:00:22.565 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem) in 3080.1863ms
+2025-01-12 13:00:22.569 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:00:22.570 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - 200 null text/plain; charset=utf-8 3128.3438ms
+2025-01-12 13:00:26.061 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:26.064 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.3669ms
+2025-01-12 13:00:27.578 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:27.583 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.0258ms
+2025-01-12 13:00:28.996 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:00:28.996 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:00:29.003 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.9624ms
+2025-01-12 13:00:29.028 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.6029ms
+2025-01-12 13:00:35.948 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:00:35.958 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:00:35.962 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:04:51.687 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:04:51.732 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:04:51.737 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:04:51.738 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:04:51.740 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:04:52.689 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:04:52.689 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:04:52.723 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 45.8487ms
+2025-01-12 13:04:52.772 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.7857ms
+2025-01-12 13:04:52.827 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:04:52.886 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 58.901ms
+2025-01-12 13:04:52.890 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:04:54.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:04:54.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:04:54.194 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3119ms
+2025-01-12 13:04:54.225 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.5097ms
+2025-01-12 13:04:56.383 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:04:56.383 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:04:56.386 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.6209ms
+2025-01-12 13:04:56.419 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.4701ms
+2025-01-12 13:05:02.982 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:05:03.053 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:05:03.077 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:06:37.730 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:06:37.773 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:06:37.777 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:06:37.779 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:06:37.781 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:06:38.667 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:06:38.667 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:06:38.699 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 38.9671ms
+2025-01-12 13:06:38.750 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.8445ms
+2025-01-12 13:06:38.786 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:06:38.837 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 50.2412ms
+2025-01-12 13:06:38.841 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:06:40.270 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:06:40.270 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:06:40.275 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.9294ms
+2025-01-12 13:06:40.301 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.9611ms
+2025-01-12 13:06:41.372 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:06:41.372 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:06:41.376 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.7352ms
+2025-01-12 13:06:41.409 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.1351ms
+2025-01-12 13:06:46.105 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:06:46.180 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:06:46.204 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:07:58.640 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:07:58.687 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:07:58.691 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:07:58.693 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:07:58.695 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:07:59.676 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:07:59.676 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:07:59.713 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 46.3514ms
+2025-01-12 13:07:59.754 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 90.2191ms
+2025-01-12 13:07:59.805 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:07:59.860 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 54.9966ms
+2025-01-12 13:07:59.865 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:08:00.553 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 13:08:00.702 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 149.6776ms
+2025-01-12 13:08:00.718 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:08:00.723 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 13:08:00.723 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:08:00.730 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 12.6532ms
+2025-01-12 13:08:00.739 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 16.0247ms
+2025-01-12 13:08:00.763 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.8041ms
+2025-01-12 13:08:00.823 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 13:08:00.995 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 172.1515ms
+2025-01-12 13:08:44.002 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - multipart/form-data; boundary=----WebKitFormBoundaryQULIYnYObPXTUwEB 346
+2025-01-12 13:08:44.006 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:08:44.029 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:09:16.738 +02:00 [INF] *********************************************************************
+2025-01-12 13:09:16.836 +02:00 [INF] the teacher connect and edit the password to the student with the id: 111 
+2025-01-12 13:09:17.175 +02:00 [INF] *********************************************************************
+2025-01-12 13:09:19.674 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:09:19.688 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 35648.7563ms
+2025-01-12 13:09:19.692 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:09:19.696 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - 200 null text/plain; charset=utf-8 35694.8012ms
+2025-01-12 13:11:28.457 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:11:28.503 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:11:28.508 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:11:28.510 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:11:28.512 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:11:29.419 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:11:29.419 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:11:29.451 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 39.9389ms
+2025-01-12 13:11:29.485 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.0758ms
+2025-01-12 13:11:29.518 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:11:29.571 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 53.0118ms
+2025-01-12 13:11:29.576 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:11:33.223 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:11:33.223 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:11:33.231 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.8392ms
+2025-01-12 13:11:33.264 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.7874ms
+2025-01-12 13:11:34.514 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:11:34.514 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:11:34.524 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.6653ms
+2025-01-12 13:11:34.555 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.1222ms
+2025-01-12 13:11:39.772 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:11:39.844 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:11:39.868 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:15:58.391 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:15:58.437 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:15:58.441 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:15:58.443 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:15:58.445 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:15:59.208 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:15:59.208 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:15:59.244 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 46.5822ms
+2025-01-12 13:15:59.284 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 87.9963ms
+2025-01-12 13:15:59.335 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:15:59.387 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 52.4643ms
+2025-01-12 13:15:59.391 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:16:00.821 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:16:00.821 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:16:00.832 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 11.181ms
+2025-01-12 13:16:00.859 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.9246ms
+2025-01-12 13:16:01.970 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:16:01.970 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:16:01.974 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3724ms
+2025-01-12 13:16:02.009 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4791ms
+2025-01-12 13:16:06.058 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword= - null null
+2025-01-12 13:16:06.130 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:16:06.165 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:16:06.210 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-01-12 13:16:06.282 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 111.023ms
+2025-01-12 13:16:06.285 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:16:06.287 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword= - 400 null application/problem+json; charset=utf-8 229.0796ms
+2025-01-12 13:17:32.906 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:17:32.952 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:17:32.957 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:17:32.959 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:17:32.960 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:17:33.622 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:17:33.622 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:17:33.660 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 49.2241ms
+2025-01-12 13:17:33.706 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 97.6928ms
+2025-01-12 13:17:33.769 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:17:33.827 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 57.9126ms
+2025-01-12 13:17:33.831 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:17:34.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:17:34.604 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:17:34.608 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.5466ms
+2025-01-12 13:17:34.637 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.9752ms
+2025-01-12 13:17:35.673 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:17:35.673 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:17:35.676 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.0892ms
+2025-01-12 13:17:35.709 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.4597ms
+2025-01-12 13:17:42.952 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:17:43.019 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:17:43.045 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:17:54.768 +02:00 [INF] *********************************************************************
+2025-01-12 13:17:54.968 +02:00 [INF] the teacher connect and edit the password to the student with the id: 111 
+2025-01-12 13:17:55.145 +02:00 [INF] *********************************************************************
+2025-01-12 13:17:56.005 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:17:56.014 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 12961.7651ms
+2025-01-12 13:17:56.017 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:17:56.019 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - 200 null text/plain; charset=utf-8 13066.3888ms
+2025-01-12 13:18:50.727 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:18:50.769 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:18:50.774 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:18:50.776 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:18:50.777 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:18:51.869 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:18:51.869 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:18:51.912 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 50.1127ms
+2025-01-12 13:18:51.957 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 97.0324ms
+2025-01-12 13:18:52.019 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:18:52.071 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 52.1116ms
+2025-01-12 13:18:52.075 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:18:52.737 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:18:52.737 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:18:52.745 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.9433ms
+2025-01-12 13:18:52.776 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4635ms
+2025-01-12 13:18:53.935 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:18:53.935 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:18:53.939 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.266ms
+2025-01-12 13:18:53.975 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.1131ms
+2025-01-12 13:19:00.425 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:19:00.496 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:19:00.527 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:19:52.346 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:19:53.946 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 13:19:52.366 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 13:19:53.948 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 13:19:53.956 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem) in 53422.3859ms
+2025-01-12 13:19:53.954 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 499 13762 application/javascript; charset=utf-8 1608.254ms
+2025-01-12 13:19:53.968 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:19:53.974 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id EditPassword not exsist
+   at GradeDO.Students.FindStudent(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\Students.cs:line 127
+   at GradeDO.Students.ViewStudent(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\Students.cs:line 53
+   at GradingSystem.Controllers.StudentManagementController.Get_Student(String StudentId) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Controllers\StudentManagementController.cs:line 84
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-01-12 13:19:53.991 +02:00 [INF] The file /EditName.html was not modified
+2025-01-12 13:19:54.000 +02:00 [INF] Sending file. Request path: '/EditName.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditName.html'
+2025-01-12 13:19:54.007 +02:00 [INF] Sending file. Request path: '/EditName.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditName.html'
+2025-01-12 13:19:54.022 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 499 null text/html 1655.6469ms
+2025-01-12 13:19:54.023 +02:00 [WRN] Unable to configure Browser Link script injection on the response. 
+2025-01-12 13:19:54.023 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 200 null text/html 78.165ms
+2025-01-12 13:19:54.025 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 13:19:54.026 +02:00 [WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+2025-01-12 13:19:54.031 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 499 null text/html 83.207ms
+2025-01-12 13:19:54.031 +02:00 [INF] Route matched with {action = "HandleError", controller = "Exception"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleError() on controller GradingSystem.Controllers.ExceptionController (GradingSystem).
+2025-01-12 13:19:54.032 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:19:54.033 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:19:54.041 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 8.3629ms
+2025-01-12 13:19:54.041 +02:00 [INF] *********************************************************************
+2025-01-12 13:19:54.047 +02:00 [ERR] The student with Id EditPassword not exsist
+2025-01-12 13:19:54.050 +02:00 [INF] *********************************************************************
+2025-01-12 13:19:54.052 +02:00 [WRN] Student not exsist
+2025-01-12 13:19:54.059 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-01-12 13:19:54.065 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.9479ms
+2025-01-12 13:19:54.139 +02:00 [INF] Executed action GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem) in 100.76ms
+2025-01-12 13:19:54.141 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 13:19:54.142 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - 499 null application/problem+json; charset=utf-8 53717.5743ms
+2025-01-12 13:20:01.815 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - application/x-www-form-urlencoded 38
+2025-01-12 13:20:01.823 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:20:01.827 +02:00 [INF] Route matched with {action = "Edit_Name", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Name(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:20:04.849 +02:00 [INF] *********************************************************************
+2025-01-12 13:20:04.851 +02:00 [INF] the teacher connect and edit the name to the student with the id: 111 
+2025-01-12 13:20:04.852 +02:00 [INF] *********************************************************************
+2025-01-12 13:20:04.854 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:20:04.859 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem) in 3028.8933ms
+2025-01-12 13:20:04.861 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:20:04.863 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - 200 null text/plain; charset=utf-8 3049.0545ms
+2025-01-12 13:21:55.576 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:21:55.581 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.7963ms
+2025-01-12 13:21:57.642 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:21:57.647 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.6604ms
+2025-01-12 13:21:59.351 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:21:59.351 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:21:59.359 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 8.3493ms
+2025-01-12 13:21:59.391 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4777ms
+2025-01-12 13:22:09.176 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:22:09.188 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:22:09.189 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:22:28.336 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:22:28.383 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:22:28.388 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:22:28.390 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:22:28.392 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:22:29.302 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:22:29.302 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:22:29.332 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 38.1123ms
+2025-01-12 13:22:29.374 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 81.5144ms
+2025-01-12 13:22:29.410 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:22:29.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 52.6235ms
+2025-01-12 13:22:29.468 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:22:32.133 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:22:32.133 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:22:32.138 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.7916ms
+2025-01-12 13:22:32.167 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0883ms
+2025-01-12 13:22:33.664 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:22:33.665 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:22:33.669 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.2782ms
+2025-01-12 13:22:33.706 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.2933ms
+2025-01-12 13:22:38.456 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/StudentManagement/EditPassword?studentId=111&currPassword=111&newPassword=123 - null null
+2025-01-12 13:22:38.526 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Get_Student (GradingSystem)'
+2025-01-12 13:22:38.550 +02:00 [INF] Route matched with {action = "Get_Student", controller = "StudentManagement"}. Executing controller action with signature GradeDO.Student Get_Student(System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:23:21.426 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:23:21.471 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:23:21.475 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:23:21.476 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:23:21.478 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:23:22.378 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:23:22.378 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:23:22.412 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 43.2076ms
+2025-01-12 13:23:22.448 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.9558ms
+2025-01-12 13:23:22.500 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:23:22.554 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 54.2236ms
+2025-01-12 13:23:22.559 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:23:24.845 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:23:24.845 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:23:24.852 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.586ms
+2025-01-12 13:23:24.874 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.0914ms
+2025-01-12 13:23:26.199 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:23:26.200 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:23:26.204 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.9164ms
+2025-01-12 13:23:26.234 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.8077ms
+2025-01-12 13:24:34.638 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:24:34.774 +02:00 [INF] Sending file. Request path: '/EditPassword.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditPassword.html'
+2025-01-12 13:24:34.777 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 200 null text/html 138.9523ms
+2025-01-12 13:24:34.787 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:24:34.787 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:24:34.791 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.6307ms
+2025-01-12 13:24:34.823 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.6113ms
+2025-01-12 13:24:36.138 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:24:36.165 +02:00 [INF] Sending file. Request path: '/EditPassword.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditPassword.html'
+2025-01-12 13:24:36.168 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 200 null text/html 30.9681ms
+2025-01-12 13:24:36.181 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:24:36.181 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:24:36.184 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.4477ms
+2025-01-12 13:24:36.217 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.8926ms
+2025-01-12 13:24:37.886 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:24:37.901 +02:00 [INF] Sending file. Request path: '/EditPassword.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditPassword.html'
+2025-01-12 13:24:37.903 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 200 null text/html 17.6384ms
+2025-01-12 13:24:37.916 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:24:37.916 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:24:37.922 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 6.3254ms
+2025-01-12 13:24:37.944 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.2571ms
+2025-01-12 13:24:43.026 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:24:43.037 +02:00 [INF] Sending file. Request path: '/EditPassword.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditPassword.html'
+2025-01-12 13:24:43.038 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 200 null text/html 12.2784ms
+2025-01-12 13:24:43.048 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:24:43.048 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:24:43.054 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 6.416ms
+2025-01-12 13:24:43.076 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.531ms
+2025-01-12 13:24:59.853 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:24:59.867 +02:00 [INF] Sending file. Request path: '/EditPassword.html'. Physical path: 'H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\wwwroot\EditPassword.html'
+2025-01-12 13:24:59.869 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 200 null text/html 16.4336ms
+2025-01-12 13:24:59.882 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:24:59.882 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:24:59.886 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.2075ms
+2025-01-12 13:24:59.920 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.043ms
+2025-01-12 13:25:07.430 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - application/x-www-form-urlencoded 46
+2025-01-12 13:25:07.439 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:25:07.466 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:25:39.285 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:25:39.332 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:25:39.336 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:25:39.338 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:25:39.339 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:25:40.317 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:40.317 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:25:40.349 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 42.0772ms
+2025-01-12 13:25:40.385 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.031ms
+2025-01-12 13:25:40.432 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:25:40.481 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 49.9558ms
+2025-01-12 13:25:40.486 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:25:43.811 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:43.811 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:25:43.816 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.9329ms
+2025-01-12 13:25:43.845 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0894ms
+2025-01-12 13:25:45.000 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:25:45.071 +02:00 [INF] The file /EditPassword.html was not modified
+2025-01-12 13:25:45.075 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 304 null text/html 74.6233ms
+2025-01-12 13:25:45.084 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:45.084 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:25:45.089 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.3489ms
+2025-01-12 13:25:45.131 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.6713ms
+2025-01-12 13:25:50.830 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - application/x-www-form-urlencoded 46
+2025-01-12 13:25:50.845 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:25:50.869 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:25:50.909 +02:00 [INF] *********************************************************************
+2025-01-12 13:25:50.912 +02:00 [INF] the teacher connect and edit the password to the student with the id: 111 
+2025-01-12 13:25:50.913 +02:00 [INF] *********************************************************************
+2025-01-12 13:25:50.923 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:25:50.932 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 56.5702ms
+2025-01-12 13:25:50.935 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:25:50.936 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - 200 null text/plain; charset=utf-8 106.2857ms
+2025-01-12 13:25:52.809 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:52.814 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.7761ms
+2025-01-12 13:25:53.337 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:53.342 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.2314ms
+2025-01-12 13:25:54.766 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditName.html - null null
+2025-01-12 13:25:54.772 +02:00 [INF] The file /EditName.html was not modified
+2025-01-12 13:25:54.775 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditName.html - 304 null text/html 9.4087ms
+2025-01-12 13:25:54.782 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:25:54.782 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:25:54.786 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3157ms
+2025-01-12 13:25:54.819 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.3813ms
+2025-01-12 13:26:04.708 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - application/x-www-form-urlencoded 38
+2025-01-12 13:26:04.719 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:26:04.723 +02:00 [INF] Route matched with {action = "Edit_Name", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Name(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:26:07.973 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:07.976 +02:00 [INF] the teacher connect and edit the name to the student with the id: 111 
+2025-01-12 13:26:07.978 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:07.979 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:26:07.981 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem) in 3253.3856ms
+2025-01-12 13:26:07.982 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Name (GradingSystem)'
+2025-01-12 13:26:07.984 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditName - 200 null text/plain; charset=utf-8 3275.992ms
+2025-01-12 13:26:11.185 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:11.188 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.8341ms
+2025-01-12 13:26:12.115 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:12.121 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.7786ms
+2025-01-12 13:26:13.295 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditGrade.html - null null
+2025-01-12 13:26:13.302 +02:00 [INF] The file /EditGrade.html was not modified
+2025-01-12 13:26:13.304 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditGrade.html - 304 null text/html 9.1756ms
+2025-01-12 13:26:13.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:26:13.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:13.323 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 10.7997ms
+2025-01-12 13:26:13.350 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.7957ms
+2025-01-12 13:26:17.980 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - application/x-www-form-urlencoded 31
+2025-01-12 13:26:17.987 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 13:26:17.990 +02:00 [INF] Route matched with {action = "Edit_Grade", controller = "GradesManagement"}. Executing controller action with signature System.String Edit_Grade(System.String, Int32, Int32) on controller GradingSystem.Controllers.GradesManagementController (GradingSystem).
+2025-01-12 13:26:18.000 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:18.002 +02:00 [INF] the teacher edit grade of exe2 change to 23 for student 111
+2025-01-12 13:26:18.004 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:18.005 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:26:18.006 +02:00 [INF] Executed action GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem) in 12.3224ms
+2025-01-12 13:26:18.011 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.GradesManagementController.Edit_Grade (GradingSystem)'
+2025-01-12 13:26:18.013 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/GradesManagement/EditGrade - 200 null text/plain; charset=utf-8 33.1059ms
+2025-01-12 13:26:21.987 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:21.990 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.7577ms
+2025-01-12 13:26:24.039 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:24.044 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.4506ms
+2025-01-12 13:26:25.370 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:25.374 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.7113ms
+2025-01-12 13:26:27.709 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:27.709 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:26:27.713 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.5897ms
+2025-01-12 13:26:27.744 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.9094ms
+2025-01-12 13:26:29.174 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:29.178 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.3673ms
+2025-01-12 13:26:30.101 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:30.101 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:26:30.105 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.4349ms
+2025-01-12 13:26:30.136 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.2169ms
+2025-01-12 13:26:31.119 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:31.119 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:26:31.123 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.2025ms
+2025-01-12 13:26:31.155 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.6396ms
+2025-01-12 13:26:38.680 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/api/ViewGrades/SpecificExe?studentId=111&passWord=123&exeNum=2 - null null
+2025-01-12 13:26:38.687 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ViewGradesController.Specific_Exe (GradingSystem)'
+2025-01-12 13:26:38.691 +02:00 [INF] Route matched with {action = "Specific_Exe", controller = "ViewGrades"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.String,System.Single] Specific_Exe(System.String, System.String, Int32) on controller GradingSystem.Controllers.ViewGradesController (GradingSystem).
+2025-01-12 13:26:38.701 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:38.703 +02:00 [INF] the student with the id:111 connect and get the exercise 2
+2025-01-12 13:26:38.704 +02:00 [INF] *********************************************************************
+2025-01-12 13:26:38.706 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Single, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-01-12 13:26:38.747 +02:00 [INF] Executed action GradingSystem.Controllers.ViewGradesController.Specific_Exe (GradingSystem) in 53.6357ms
+2025-01-12 13:26:38.750 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ViewGradesController.Specific_Exe (GradingSystem)'
+2025-01-12 13:26:38.751 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/api/ViewGrades/SpecificExe?studentId=111&passWord=123&exeNum=2 - 200 null application/json; charset=utf-8 71.5134ms
+2025-01-12 13:26:41.120 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:41.123 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.4402ms
+2025-01-12 13:26:41.673 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:41.676 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 4.1787ms
+2025-01-12 13:26:43.252 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:43.258 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 5.2549ms
+2025-01-12 13:26:44.064 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-12 13:26:44.135 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 71.1756ms
+2025-01-12 13:26:44.148 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:26:44.149 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-12 13:26:44.155 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:26:44.156 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 7.9112ms
+2025-01-12 13:26:44.162 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 13.1968ms
+2025-01-12 13:26:44.190 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.32ms
+2025-01-12 13:26:44.248 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-12 13:26:44.408 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 159.715ms
+2025-01-12 13:35:41.200 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:35:41.254 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:35:41.259 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:35:41.261 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:35:41.262 +02:00 [INF] Content root path: H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem
+2025-01-12 13:35:41.942 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:35:41.942 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:35:41.972 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 37.523ms
+2025-01-12 13:35:42.025 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.3737ms
+2025-01-12 13:35:42.063 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:35:42.117 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 54.2728ms
+2025-01-12 13:35:42.121 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:35:43.138 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:35:43.138 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:35:43.144 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 6.7217ms
+2025-01-12 13:35:43.165 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.8812ms
+2025-01-12 13:35:44.230 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:35:44.302 +02:00 [INF] The file /EditPassword.html was not modified
+2025-01-12 13:35:44.304 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 304 null text/html 74.7917ms
+2025-01-12 13:35:44.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:35:44.313 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:35:44.322 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 8.614ms
+2025-01-12 13:35:44.350 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9635ms
+2025-01-12 13:35:52.596 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - application/x-www-form-urlencoded 45
+2025-01-12 13:35:52.609 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:35:52.635 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:36:06.346 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 13702.8869ms
+2025-01-12 13:36:06.349 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:36:06.354 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 11 not exsist
+   at GradingSystem.Services.PasswordManager.ValideNameAndPassword(String id, String password) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Services\PasswordManager.cs:line 37
+   at GradingSystem.Controllers.StudentManagementController.Edit_Password(String studentId, String currPassword, String newPassword) in H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\Controllers\StudentManagementController.cs:line 45
+   at lambda_method4(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-01-12 13:36:06.400 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 13:36:06.403 +02:00 [INF] Route matched with {action = "HandleError", controller = "Exception"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HandleError() on controller GradingSystem.Controllers.ExceptionController (GradingSystem).
+2025-01-12 13:36:06.407 +02:00 [INF] *********************************************************************
+2025-01-12 13:36:06.408 +02:00 [ERR] The student with Id 11 not exsist
+2025-01-12 13:36:06.409 +02:00 [INF] *********************************************************************
+2025-01-12 13:36:06.410 +02:00 [INF] *********************************************************************
+2025-01-12 13:36:06.412 +02:00 [WRN] Student not exsist
+2025-01-12 13:36:06.413 +02:00 [INF] *********************************************************************
+2025-01-12 13:36:06.422 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-01-12 13:36:06.491 +02:00 [INF] Executed action GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem) in 85.7387ms
+2025-01-12 13:36:06.494 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.ExceptionController.HandleError (GradingSystem)'
+2025-01-12 13:36:06.496 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - 444 null application/problem+json; charset=utf-8 13899.8103ms
+2025-01-12 13:39:12.841 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:39:12.890 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:39:12.895 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:39:12.896 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:39:12.897 +02:00 [INF] Content root path: I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem
+2025-01-12 13:39:13.972 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:39:13.972 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:39:14.054 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 82.4307ms
+2025-01-12 13:39:14.165 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 206.4127ms
+2025-01-12 13:39:14.220 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:39:14.270 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 50.1704ms
+2025-01-12 13:39:14.275 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-12 13:39:15.409 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:39:15.409 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:39:15.418 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 8.7678ms
+2025-01-12 13:39:15.441 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.1311ms
+2025-01-12 13:39:16.503 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/EditPassword.html - null null
+2025-01-12 13:39:16.573 +02:00 [INF] The file /EditPassword.html was not modified
+2025-01-12 13:39:16.577 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/EditPassword.html - 304 null text/html 74.3218ms
+2025-01-12 13:39:16.585 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:39:16.585 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:39:16.593 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 8.4788ms
+2025-01-12 13:39:16.623 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.6553ms
+2025-01-12 13:39:20.420 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - application/x-www-form-urlencoded 46
+2025-01-12 13:39:20.434 +02:00 [INF] Executing endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:39:20.459 +02:00 [INF] Route matched with {action = "Edit_Password", controller = "StudentManagement"}. Executing controller action with signature System.String Edit_Password(System.String, System.String, System.String) on controller GradingSystem.Controllers.StudentManagementController (GradingSystem).
+2025-01-12 13:39:20.493 +02:00 [INF] *********************************************************************
+2025-01-12 13:39:20.495 +02:00 [INF] the teacher connect and edit the password to the student with the id: 111 
+2025-01-12 13:39:20.496 +02:00 [INF] *********************************************************************
+2025-01-12 13:39:20.505 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-01-12 13:39:20.514 +02:00 [INF] Executed action GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem) in 48.3404ms
+2025-01-12 13:39:20.516 +02:00 [INF] Executed endpoint 'GradingSystem.Controllers.StudentManagementController.Edit_Password (GradingSystem)'
+2025-01-12 13:39:20.518 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7012/api/StudentManagement/EditPassword - 200 null text/plain; charset=utf-8 97.5517ms
+2025-01-12 13:39:29.860 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-12 13:39:29.911 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-12 13:39:29.924 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-12 13:39:29.926 +02:00 [INF] Hosting environment: Development
+2025-01-12 13:39:29.927 +02:00 [INF] Content root path: I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem
+2025-01-12 13:39:30.618 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-12 13:39:30.618 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-12 13:39:30.646 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 39.894ms
+2025-01-12 13:39:30.686 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 80.9861ms
+2025-01-12 13:39:30.724 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-12 13:39:30.777 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 52.6749ms
+2025-01-12 13:39:30.783 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404

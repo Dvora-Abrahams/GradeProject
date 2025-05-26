@@ -1,0 +1,68 @@
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\server\Lesson8\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\server\Lesson8\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\server\Lesson8\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\server\Lesson8\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+H:\סרבר\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\סרבר\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\סרבר\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\סרבר\שיעור 7\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+F:\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+F:\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.dll
+F:\שיעור 7\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.dll
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+F:\שיעור 7\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\פרויקט גמור סברבר ברוך ה'\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradeDO\obj\Debug\net8.0\GradeDO.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\bin\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll

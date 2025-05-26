@@ -1,0 +1,84 @@
+2025-01-14 11:53:49.889 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-14 11:53:49.931 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-14 11:53:49.936 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-14 11:53:49.938 +02:00 [INF] Hosting environment: Development
+2025-01-14 11:53:49.939 +02:00 [INF] Content root path: I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem
+2025-01-14 11:53:51.425 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/Enter.html - null null
+2025-01-14 11:53:51.621 +02:00 [INF] Sending file. Request path: '/Enter.html'. Physical path: 'I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\wwwroot\Enter.html'
+2025-01-14 11:53:51.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-14 11:53:51.628 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-14 11:53:51.629 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/Enter.html - 200 null text/html 213.449ms
+2025-01-14 11:53:51.658 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 29.1922ms
+2025-01-14 11:53:51.710 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 81.4177ms
+2025-01-14 11:53:51.733 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-14 11:53:51.766 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 33.733ms
+2025-01-14 11:53:51.778 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-14 11:53:57.517 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger - null null
+2025-01-14 11:53:57.529 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger - 301 0 null 12.3264ms
+2025-01-14 11:53:57.533 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-14 11:53:57.584 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 51.2252ms
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui.css - null null
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.css - null null
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui-bundle.js - null null
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-14 11:53:57.601 +02:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-01-14 11:53:57.590 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-14 11:53:57.617 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-14 11:53:57.613 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.css - 200 202 text/css 23.7963ms
+2025-01-14 11:53:57.613 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 22.7871ms
+2025-01-14 11:53:57.624 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui.css - 200 152035 text/css 34.5189ms
+2025-01-14 11:53:57.627 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-14 11:53:57.617 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-14 11:53:57.621 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 31.0927ms
+2025-01-14 11:53:57.639 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-14 11:53:57.641 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 51.1703ms
+2025-01-14 11:53:57.647 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 56.9912ms
+2025-01-14 11:53:57.662 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.5656ms
+2025-01-14 11:53:57.768 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-14 11:53:57.775 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/favicon-32x32.png - null null
+2025-01-14 11:53:57.781 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-14 11:53:57.788 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/favicon-32x32.png - 200 628 image/png 13.2812ms
+2025-01-14 11:53:57.880 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.5285ms
+2025-01-14 11:59:20.419 +02:00 [INF] Now listening on: https://localhost:7012
+2025-01-14 11:59:20.459 +02:00 [INF] Now listening on: http://localhost:5058
+2025-01-14 11:59:20.465 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-14 11:59:20.468 +02:00 [INF] Hosting environment: Development
+2025-01-14 11:59:20.469 +02:00 [INF] Content root path: I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem
+2025-01-14 11:59:20.809 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/Enter.html - null null
+2025-01-14 11:59:20.971 +02:00 [INF] Sending file. Request path: '/Enter.html'. Physical path: 'I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\wwwroot\Enter.html'
+2025-01-14 11:59:20.979 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/Enter.html - 200 null text/html 176.0256ms
+2025-01-14 11:59:20.982 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-14 11:59:20.982 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-14 11:59:21.006 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 23.8511ms
+2025-01-14 11:59:21.058 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.7745ms
+2025-01-14 11:59:21.080 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/favicon.ico - null null
+2025-01-14 11:59:21.101 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/favicon.ico - 404 0 null 20.2936ms
+2025-01-14 11:59:21.109 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7012/favicon.ico, Response status code: 404
+2025-01-14 11:59:23.050 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger - null null
+2025-01-14 11:59:23.063 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger - 301 0 null 12.3924ms
+2025-01-14 11:59:23.065 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.html - null null
+2025-01-14 11:59:23.119 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.html - 200 null text/html;charset=utf-8 54.0492ms
+2025-01-14 11:59:23.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui.css - null null
+2025-01-14 11:59:23.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.css - null null
+2025-01-14 11:59:23.128 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-14 11:59:23.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-14 11:59:23.145 +02:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-01-14 11:59:23.127 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/swagger-ui-bundle.js - null null
+2025-01-14 11:59:23.160 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.css - 200 202 text/css 32.2197ms
+2025-01-14 11:59:23.128 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/index.js - null null
+2025-01-14 11:59:23.166 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-14 11:59:23.137 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/_vs/browserLink - null null
+2025-01-14 11:59:23.152 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 23.0306ms
+2025-01-14 11:59:23.175 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/index.js - 200 null application/javascript;charset=utf-8 47.0467ms
+2025-01-14 11:59:23.175 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui.css - 200 152035 text/css 48.002ms
+2025-01-14 11:59:23.167 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-14 11:59:23.193 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 65.0765ms
+2025-01-14 11:59:23.199 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-14 11:59:23.201 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.6546ms
+2025-01-14 11:59:23.202 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 74.3973ms
+2025-01-14 11:59:23.317 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - null null
+2025-01-14 11:59:23.326 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7012/swagger/favicon-32x32.png - null null
+2025-01-14 11:59:23.333 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-14 11:59:23.340 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/favicon-32x32.png - 200 628 image/png 14.9496ms
+2025-01-14 11:59:23.432 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7012/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 115.1802ms

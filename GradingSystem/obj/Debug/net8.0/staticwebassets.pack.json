@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\EditGrade.html",
+      "PackagePath": "staticwebassets\\EditGrade.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\EditName.html",
+      "PackagePath": "staticwebassets\\EditName.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\EditPassword.html",
+      "PackagePath": "staticwebassets\\EditPassword.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\Enter.html",
+      "PackagePath": "staticwebassets\\Enter.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\GetGrade.html",
+      "PackagePath": "staticwebassets\\GetGrade.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\Student.html",
+      "PackagePath": "staticwebassets\\Student.html"
+    },
+    {
+      "Id": "I:\\הגשת מבחנים ועבודות\\Group3\\Sever\\הגשת פרויקט\\אורית כהן ודבורה אברהמס\\GradingSystem\\wwwroot\\Teacher.html",
+      "PackagePath": "staticwebassets\\Teacher.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GradingSystem.props",
+      "PackagePath": "build\\GradingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GradingSystem.props",
+      "PackagePath": "buildMultiTargeting\\GradingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GradingSystem.props",
+      "PackagePath": "buildTransitive\\GradingSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,319 @@
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.AssemblyReference.cache
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cache
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.Development.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.pdb
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.build.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.development.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.GradingSystem.props
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradingSystem.props
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradingSystem.props
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\scopedcss\bundle\GradingSystem.styles.css
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingS.E917DAF6.Up2Date
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cs
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.SerilogConsoleLogging.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Polly.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.ColoredConsole.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.Extension.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Json.dll
+H:\סרבר\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.Development.json
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.json
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.SerilogConsoleLogging.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Polly.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.ColoredConsole.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.Extension.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Json.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.pdb
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.AssemblyReference.cache
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.build.json
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.development.json
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.GradingSystem.props
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradingSystem.props
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradingSystem.props
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\scopedcss\bundle\GradingSystem.styles.css
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingS.E917DAF6.Up2Date
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+F:\שיעור 7\GradingSystem\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll
+F:\שיעור 7\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.staticwebassets.runtime.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.Development.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.staticwebassets.runtime.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Logicality.Extensions.Hosting.SerilogConsoleLogging.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Polly.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.ColoredConsole.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.RollingFile.Extension.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Json.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.pdb
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.AssemblyReference.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.build.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.development.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.GradingSystem.props
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradingSystem.props
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradingSystem.props
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\scopedcss\bundle\GradingSystem.styles.css
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingS.E917DAF6.Up2Date
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+H:\פרויקט גמור סברבר ברוך ה'\GradingSystem\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.AssemblyReference.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cs
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.Development.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\appsettings.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.staticwebassets.runtime.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\System.Text.Json.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.dll
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\bin\Debug\net8.0\GradeDO.pdb
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.build.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.development.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.GradingSystem.props
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradingSystem.props
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradingSystem.props
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\scopedcss\bundle\GradingSystem.styles.css
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingS.E917DAF6.Up2Date
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+H:\‏‏פרויקט גמור סברבר ברוך ה' - עותק\GradingSystem\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\appsettings.Development.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\appsettings.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.staticwebassets.runtime.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradingSystem.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\System.Text.Json.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.MvcApplicationPartsAssemblyInfo.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets.build.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets.development.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.GradingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.GradingSystem.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradingSystem.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradingSystem.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\scopedcss\bundle\GradingSystem.styles.css
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingS.E917DAF6.Up2Date
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\refint\GradingSystem.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\GradingSystem.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\אורית כהן ודבורה אברהמס\GradingSystem\obj\Debug\net8.0\ref\GradingSystem.dll
